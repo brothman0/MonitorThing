@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorThing.UI", "MonitorThing.UI\MonitorThing.UI.csproj", "{E818A042-E3BC-4C34-96F7-969615F3ADAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorThing.Core", "MonitorThing.Core\MonitorThing.Core.csproj", "{CBB38B53-ACCA-4714-A98F-B2257081E1D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A5045903-A29F-46AE-B5A4-30CF95D7C874}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E818A042-E3BC-4C34-96F7-969615F3ADAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E818A042-E3BC-4C34-96F7-969615F3ADAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E818A042-E3BC-4C34-96F7-969615F3ADAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E818A042-E3BC-4C34-96F7-969615F3ADAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB38B53-ACCA-4714-A98F-B2257081E1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB38B53-ACCA-4714-A98F-B2257081E1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB38B53-ACCA-4714-A98F-B2257081E1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB38B53-ACCA-4714-A98F-B2257081E1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2841F8AC-C564-45A3-9505-DD6D1462B176}
+	EndGlobalSection
+EndGlobal
